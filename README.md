@@ -1,8 +1,8 @@
 <div align="center">
 
-<br>👋 - Hi there world, I’m @m6securities-jbj! Nice to meet you!
-<br>🤓 - I'm currently a designer/developer at M6 Securities LLC, a SaaS based startup out of Orem, UT.  
-👀 - I’m interested in all forms of design and development!
+<br>👋 - Hi there world, I’m Joshua Jones! Nice to meet you!
+<br>🤓 - I'm currently working with M6 Securities LLC, a SaaS based startup out of Orem, UT.  
+<br>🤓 - At M6 Securities LLC, I do design, development, and marketing.
 
 ![programming](https://user-images.githubusercontent.com/79675565/198040049-acbfce0c-bafa-4116-bfa3-b7cd348c695f.gif)
 
